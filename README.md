@@ -4,6 +4,7 @@
 #### I'm Brazilian and I live in Duque de Caxias, Rio de Janeiro
 #### I'm a database graduate student, passionate about technology and my hobby is programming, despite being a beginner
 #### Welcome to my Github
+##
 
 ##### My social networks are:
 <a href="https://www.linkedin.com/in/marcus-vinicius-valadares-7529b979/" target="_blank">
@@ -27,6 +28,7 @@
 
 <a href="https://prontosolucoes.com/" target="_blank">
   <img src="https://prontosolucoes.com/img/pronto.png"
+       alt="prontosolucoes"
        height="80"
        width="80">
 </a>
@@ -80,13 +82,30 @@
        width="60" 
        style="max-width:100%;"           
        align="center">
+<img src="https://www.imagensanimadas.com/data/media/636/star-wars-e-guerra-nas-estrelas-imagem-animada-0038.gif"
+     alt="kito-jedi"
+     height="160"
+     width="160"
+     align="right">
        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kito-vini&langs_count=8&theme=radical&layout=compact)](https://github.com/kito-vini/github-readme-stats)
+##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kito-vini&show_icons=true&theme=radical)
+<div>
+
+<a href="https://github.com/kito-vini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kito-vini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kito-vini&layout=compact&langs_count=16&theme=dracula"/>
 
 
+</div>
+  
+##
+  
+<div>
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
 
+</div>
 <!--
 **Kito-vini/Kito-vini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
